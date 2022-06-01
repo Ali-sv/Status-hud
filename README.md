@@ -7,7 +7,7 @@ Status HUD For Fivem
 
 ## 👉 Join the community
 <p>
-  <a href="https://discord.gg/qbcore"><img src="https://discordapp.com/api/guilds/831626422232678481/widget.png?style=banner2" alt="Discord server"></a>
+  <a href="https://discord.gg/AG6bs8rXyT"><img src="https://cdn.discordapp.com/attachments/926489258645135411/976851944834478080/sf_banner_test_2.png" alt="Discord server"></a>
 </p>
 
 
